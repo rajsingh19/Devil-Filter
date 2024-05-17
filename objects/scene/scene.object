@@ -1,0 +1,188 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Scary Asian Mask 2",
+  "identifier": "master3_d_object_model:1976658-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+  "sourceIdentifier": "asset_collection_model:1976662-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.6700942516326904,
+  "globalScaleFactor": 1,
+  "height": 0.7983601093292236,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707963705062866,
+    "ry": -0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.5395544171333313,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "root",
+      "identifier": "sceneObject:1976638-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "GLTF_SceneRootNode",
+          "identifier": "sceneObject:1976640-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 1.5707963705062866,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "geometry_0_0",
+              "identifier": "sceneObject:1976642-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "Object_4",
+                  "identifier": "mesh:1976644-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Object_4",
+                  "numberOfFaces": 50000,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1976648-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1976646-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1976651-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1976632-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "surfaceGroupIdentifier": "1976652-0915eacd-c776-418a-9d7e-29e1a6fe94d1"
+                        },
+                        {
+                          "modelName": "surface",
+                          "name": "surface1",
+                          "identifier": "surface:1976654-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1976632-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "surfaceGroupIdentifier": "1976652-0915eacd-c776-418a-9d7e-29e1a6fe94d1"
+                        },
+                        {
+                          "modelName": "surface",
+                          "name": "surface2",
+                          "identifier": "surface:1976656-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1976632-0915eacd-c776-418a-9d7e-29e1a6fe94d1",
+                          "surfaceGroupIdentifier": "1976652-0915eacd-c776-418a-9d7e-29e1a6fe94d1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
